@@ -1,0 +1,16 @@
+
+header{ 
+background-image: url(img/pattern.png);
+background-size: 400px 200px;
+background-color: #4EA0FF;
+background-repeat: repeat-x ;
+margin: 0px;
+padding: 0px;
+
+}
+
+header img{
+    height: 60px;
+    width: 150px;
+    margin-top: 30px;
+}
