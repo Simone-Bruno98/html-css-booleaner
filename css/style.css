@@ -1,0 +1,90 @@
+body{
+    margin-left: 5px;
+    margin-right: 5px;
+   
+}
+header{ 
+background-image: url(../img/pattern.png);
+background-size: 570px 260px;
+background-color: #4EA0FF;
+background-repeat: repeat-x ;
+margin: 0px;
+padding: 0px;
+
+}
+
+header img{
+    height: 100px;
+    width: 200px;
+    margin-top: 30px;
+}
+section{
+    margin-bottom: 30px;
+}
+main section span{
+    background-color: yellow;
+}
+
+.title h1{
+    margin-bottom: 5px;
+    font-size: 300%;
+}
+
+.title div{
+    color: lightgrey;
+}
+.title span{
+    color: rgb(0, 100, 255);
+}
+
+
+figcaption{
+    font-size: 12px;
+    color: grey;
+}
+section ul{
+    padding-left: 20px;
+}
+table{
+    table-layout: fixed;
+    width: 100%;
+    column-width: 25%;
+    border-collapse: collapse;
+}
+thead{
+    background-color: #20a9e5 ;
+    text-align: left;
+    color: white;
+    
+}
+.coloredrow{
+    background-color: #B1E5F2;
+}
+.informazioni{
+    color: lightgrey;
+    margin-bottom: 20px;
+    font-weight: 1000;
+}
+.imagefooter1{
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 200px;
+    height: 150px;
+    color: white;
+    font-weight: 1000;
+    padding-left: 10px;
+    padding-top: 20px;
+    margin-bottom: 10px;
+}
+.imagefooter2{
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 200px;
+    height: 150px;
+    color: white;
+    font-weight: 1000;
+    padding-left: 10px;
+    padding-top: 20px;
+}

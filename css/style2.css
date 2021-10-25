@@ -1,15 +1,16 @@
 body{
-    margin-left: 5px;
-    margin-right: 5px;
+    margin-left: 25%;
+    margin-right: 25%;
+    
    
 }
 header{ 
-background-image: url(img/pattern.png);
+background-image: url(../img/pattern.png);
 background-size: 570px 260px;
 background-color: #4EA0FF;
 background-repeat: repeat-x ;
 margin: 0px;
-padding: 0px;
+padding-left: 20px ;
 
 }
 
@@ -17,6 +18,7 @@ header img{
     height: 100px;
     width: 200px;
     margin-top: 30px;
+    text-align: center;
 }
 section{
     margin-bottom: 30px;
@@ -28,10 +30,12 @@ main section span{
 .title h1{
     margin-bottom: 5px;
     font-size: 300%;
+    text-align: center;
 }
 
 .title div{
     color: lightgrey;
+    text-align: center;
 }
 .title span{
     color: rgb(0, 100, 255);
@@ -66,7 +70,7 @@ thead{
     font-weight: 1000;
 }
 .imagefooter1{
-    background-image: url(img/monitor.jpg);
+    background-image: url(../img/monitor.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 200px;
@@ -78,7 +82,7 @@ thead{
     margin-bottom: 10px;
 }
 .imagefooter2{
-    background-image: url(img/graph.jpg);
+    background-image: url(../img/graph.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 200px;
